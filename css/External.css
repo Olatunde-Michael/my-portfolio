@@ -1,0 +1,28 @@
+.body{
+    text-align: center;
+}
+
+
+.red{background-color: red;
+    min-height: 80px;
+width: 7%;
+border-radius:100%;
+border:10px solid grey;
+}
+
+.yellow{
+    background-color:yellow;
+    min-height: 80px;
+width: 7%;
+border-radius:100%;
+border:10px solid grey;
+}
+
+.green{background-color:green;
+    min-height: 80px;
+width: 7%;
+border-radius:100%;
+border: 10px solid grey;
+
+}
+
